@@ -1,0 +1,6 @@
+body { padding: 0; background: #5fb; }
+.sprite { position: absolute; background: #f00; z-index: 10 }
+.sprite:hover { background: #f0f; cursor: crosshair; }
+#score { position: absolute; top: 25%; width: 100%; text-align: center; font-size: 72px; }
+#lifetimeWrapper { position: absolute; bottom: 0; width: 100%; text-align: center; font-size: 24px; }
+#arena { position: absolute; width: 100%; height: 100%; }

@@ -1,0 +1,9 @@
+{
+	"id": "com.mahemoff.squish",
+	"version": "1.0.0",
+	"vendor": "mahemoff.com",
+	"type": "web",
+	"main": "index.html",
+	"title": "squish",
+	"icon": "icon.png"
+}
